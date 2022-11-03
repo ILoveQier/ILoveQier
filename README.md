@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and English
 - 🌱 I’m currently learning English for go aboard
 - 💞️ I’m looking to collaborate on contributing OpenSource
-- 📫 How to reach me: mikewang199333@163.com
+- 📫 How to reach me: mikewang199333@163.com or WeChat:597584896
 
 <!---
 ILoveQier/ILoveQier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
