@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ILoveQier
 - 👀 I’m interested in Coding and English
-- 🌱 I’m currently learning English for go aboard
+- 🌱 I’m currently learning English for running to Maple Country
 - 💞️ I’m looking to collaborate on contributing OpenSource
 - 📫 How to reach me: mikewang199333@163.com or WeChat:597584896
 
